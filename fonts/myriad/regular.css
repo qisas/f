@@ -1,0 +1,11 @@
+@font-face {
+  font-family: 'myriadr';
+  src: url('./myriadregular.eot');
+  src: url('./myriadregular.eot?#iefix') format('embedded-opentype'),
+         url('./myriadregular.woff2') format('woff2'),
+         url('./myriadregular.woff') format('woff'),
+         url('./myriadregular.ttf') format('truetype'),
+         url('./myriadregular.svg#myriad') format('svg');
+  font-weight: normal;
+  font-style: normal;
+}
