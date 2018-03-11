@@ -1,0 +1,11 @@
+@font-face {
+  font-family: 'NotoSansArabic-Regular';
+  src: url('NotoSansArabic-Regular.eot');
+  src: url('NotoSansArabic-Regular.woff2') format('woff2'),
+       url('NotoSansArabic-Regular.woff') format('woff'),
+       url('NotoSansArabic-Regular.svg#NotoSansArabic-Regular') format('svg'),
+       url('NotoSansArabic-Regular.eot?#iefix') format('embedded-opentype');
+  font-weight: normal;
+  font-style: normal;
+}
+
